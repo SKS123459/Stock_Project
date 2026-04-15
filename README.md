@@ -3,7 +3,7 @@
 ## Overview
 This project is a simple end-to-end data pipeline that collects stock market data using Python and displays it in Power BI.
 
-The goal is to automate data collection and build a dashboard that changes just by refreshing it.
+The goal is to automate data collection and build a dashboard that changes by every refresh.
 
 
 ## What this project does
